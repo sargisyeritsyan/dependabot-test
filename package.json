@@ -1,0 +1,25 @@
+{
+  "name": "dependabot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sargisyeritsyan/dependabot-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.6.3",
+    "dynatron": "6.3.0",
+    "pino": "7.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sargisyeritsyan/dependabot-test/issues"
+  },
+  "homepage": "https://github.com/sargisyeritsyan/dependabot-test#readme"
+}
