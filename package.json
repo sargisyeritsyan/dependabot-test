@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "ajv": "^8.6.3",
-    "dynatron": "6.3.0",
+    "dynatron": "6.5.0",
     "pino": "7.5.0"
   },
   "bugs": {
